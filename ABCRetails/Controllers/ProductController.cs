@@ -94,6 +94,7 @@ namespace ABCRetails.Controllers
             return View(product);
         }
 
+        //Price changed tou double
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(Product product, IFormFile? imageFile)

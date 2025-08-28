@@ -1,109 +1,109 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\source\\repos\\ABCRetails\\",
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Desktop\\cldv6212p1\\ABCRetails\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|c:\\users\\lab_services_student\\source\\repos\\abcretails\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|c:\\users\\lab_services_student\\source\\repos\\abcretails\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|solutionrelative:views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|c:\\users\\lab_services_student\\source\\repos\\abcretails\\services\\azurestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|solutionrelative:services\\azurestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|c:\\users\\lab_services_student\\source\\repos\\abcretails\\views\\order\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|solutionrelative:views\\order\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|c:\\users\\lab_services_student\\source\\repos\\abcretails\\services\\iazurestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|solutionrelative:services\\iazurestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|c:\\users\\lab_services_student\\source\\repos\\abcretails\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|c:\\users\\lab_services_student\\source\\repos\\abcretails\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|c:\\users\\lab_services_student\\source\\repos\\abcretails\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|solutionrelative:views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|c:\\users\\lab_services_student\\source\\repos\\abcretails\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|solutionrelative:views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|c:\\users\\lab_services_student\\source\\repos\\abcretails\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|solutionrelative:views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|c:\\users\\lab_services_student\\source\\repos\\abcretails\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|c:\\users\\lab_services_student\\source\\repos\\abcretails\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212p1\\abcretails\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|c:\\users\\lab_services_student\\source\\repos\\abcretails\\controllers\\uploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|solutionrelative:controllers\\uploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|c:\\users\\lab_services_student\\source\\repos\\abcretails\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|c:\\users\\lab_services_student\\source\\repos\\abcretails\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212p1\\abcretails\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|c:\\users\\lab_services_student\\source\\repos\\abcretails\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212p1\\abcretails\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212p1\\abcretails\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|solutionrelative:views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212p1\\abcretails\\services\\azurestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|solutionrelative:services\\azurestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212p1\\abcretails\\views\\order\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|solutionrelative:views\\order\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212p1\\abcretails\\services\\iazurestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|solutionrelative:services\\iazurestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212p1\\abcretails\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212p1\\abcretails\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212p1\\abcretails\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|solutionrelative:views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212p1\\abcretails\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|solutionrelative:views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212p1\\abcretails\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|solutionrelative:views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212p1\\abcretails\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212p1\\abcretails\\controllers\\uploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|solutionrelative:controllers\\uploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212p1\\abcretails\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212p1\\abcretails\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|c:\\users\\lab_services_student\\source\\repos\\abcretails\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212p1\\abcretails\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|c:\\users\\lab_services_student\\source\\repos\\abcretails\\views\\upload\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212p1\\abcretails\\views\\upload\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|solutionrelative:views\\upload\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|c:\\users\\lab_services_student\\source\\repos\\abcretails\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212p1\\abcretails\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|c:\\users\\lab_services_student\\source\\repos\\abcretails\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212p1\\abcretails\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|solutionrelative:views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|c:\\users\\lab_services_student\\source\\repos\\abcretails\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212p1\\abcretails\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|solutionrelative:views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|c:\\users\\lab_services_student\\source\\repos\\abcretails\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212p1\\abcretails\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|c:\\users\\lab_services_student\\source\\repos\\abcretails\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212p1\\abcretails\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|c:\\users\\lab_services_student\\source\\repos\\abcretails\\views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212p1\\abcretails\\views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|solutionrelative:views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|c:\\users\\lab_services_student\\source\\repos\\abcretails\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212p1\\abcretails\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|solutionrelative:views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|c:\\users\\lab_services_student\\source\\repos\\abcretails\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212p1\\abcretails\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{31085B92-D7DB-408C-B85D-FEFAB68CD222}|ABCRetails.csproj|solutionrelative:views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -114,15 +114,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "IAzureStorageService.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ABCRetails\\Services\\IAzureStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212p1\\ABCRetails\\Services\\IAzureStorageService.cs",
               "RelativeDocumentMoniker": "Services\\IAzureStorageService.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ABCRetails\\Services\\IAzureStorageService.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212p1\\ABCRetails\\Services\\IAzureStorageService.cs",
               "RelativeToolTip": "Services\\IAzureStorageService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -130,11 +130,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "AzureStorageService.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ABCRetails\\Services\\AzureStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212p1\\ABCRetails\\Services\\AzureStorageService.cs",
               "RelativeDocumentMoniker": "Services\\AzureStorageService.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ABCRetails\\Services\\AzureStorageService.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212p1\\ABCRetails\\Services\\AzureStorageService.cs",
               "RelativeToolTip": "Services\\AzureStorageService.cs",
               "ViewState": "AgIAAFEAAAAAAAAAAAApwGcAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -142,23 +142,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 0,
               "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ABCRetails\\Controllers\\ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212p1\\ABCRetails\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ABCRetails\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212p1\\ABCRetails\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Controllers\\ProductController.cs",
-              "ViewState": "AgIAAHIAAAAAAAAAAAAmwGcAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAcwGAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T09:57:16.96Z"
+              "WhenOpened": "2025-08-25T09:57:16.96Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ABCRetails\\Models\\Product.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212p1\\ABCRetails\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Models\\Product.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ABCRetails\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212p1\\ABCRetails\\Models\\Product.cs",
               "RelativeToolTip": "Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -166,11 +167,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ABCRetails\\Models\\Order.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212p1\\ABCRetails\\Models\\Order.cs",
               "RelativeDocumentMoniker": "Models\\Order.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ABCRetails\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212p1\\ABCRetails\\Models\\Order.cs",
               "RelativeToolTip": "Models\\Order.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAUwBoAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -178,11 +179,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "UploadController.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ABCRetails\\Controllers\\UploadController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212p1\\ABCRetails\\Controllers\\UploadController.cs",
               "RelativeDocumentMoniker": "Controllers\\UploadController.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ABCRetails\\Controllers\\UploadController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212p1\\ABCRetails\\Controllers\\UploadController.cs",
               "RelativeToolTip": "Controllers\\UploadController.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -190,11 +191,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "CustomerController.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ABCRetails\\Controllers\\CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212p1\\ABCRetails\\Controllers\\CustomerController.cs",
               "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ABCRetails\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212p1\\ABCRetails\\Controllers\\CustomerController.cs",
               "RelativeToolTip": "Controllers\\CustomerController.cs",
               "ViewState": "AgIAACoAAAAAAAAAAAAAAFMAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -202,23 +203,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ABCRetails\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212p1\\ABCRetails\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ABCRetails\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212p1\\ABCRetails\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T08:46:19.679Z"
+              "WhenOpened": "2025-08-25T08:46:19.679Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ABCRetails\\Models\\Customer.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212p1\\ABCRetails\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "Models\\Customer.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ABCRetails\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212p1\\ABCRetails\\Models\\Customer.cs",
               "RelativeToolTip": "Models\\Customer.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -226,11 +228,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "OrderController.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ABCRetails\\Controllers\\OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212p1\\ABCRetails\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ABCRetails\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212p1\\ABCRetails\\Controllers\\OrderController.cs",
               "RelativeToolTip": "Controllers\\OrderController.cs",
               "ViewState": "AgIAAGsAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -238,13 +240,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ABCRetails\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212p1\\ABCRetails\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ABCRetails\\appsettings.json",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212p1\\ABCRetails\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-08-22T13:19:42.481Z",
               "EditorCaption": ""
@@ -253,9 +255,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ABCRetails\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212p1\\ABCRetails\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ABCRetails\\Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212p1\\ABCRetails\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -265,9 +267,9 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ABCRetails\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212p1\\ABCRetails\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ABCRetails\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212p1\\ABCRetails\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -277,9 +279,9 @@
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ABCRetails\\Views\\Home\\Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212p1\\ABCRetails\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ABCRetails\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212p1\\ABCRetails\\Views\\Home\\Privacy.cshtml",
               "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -289,9 +291,9 @@
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ABCRetails\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212p1\\ABCRetails\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ABCRetails\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212p1\\ABCRetails\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -301,9 +303,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ABCRetails\\Views\\Upload\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212p1\\ABCRetails\\Views\\Upload\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Upload\\Index.cshtml",
-              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ABCRetails\\Views\\Upload\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212p1\\ABCRetails\\Views\\Upload\\Index.cshtml",
               "RelativeToolTip": "Views\\Upload\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -313,9 +315,9 @@
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ABCRetails\\Views\\Order\\Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212p1\\ABCRetails\\Views\\Order\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Order\\Details.cshtml",
-              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ABCRetails\\Views\\Order\\Details.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212p1\\ABCRetails\\Views\\Order\\Details.cshtml",
               "RelativeToolTip": "Views\\Order\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -323,11 +325,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ABCRetails\\Views\\Order\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212p1\\ABCRetails\\Views\\Order\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Order\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ABCRetails\\Views\\Order\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212p1\\ABCRetails\\Views\\Order\\Edit.cshtml",
               "RelativeToolTip": "Views\\Order\\Edit.cshtml",
               "ViewState": "AgIAAHQAAAAAa2ZmZuYcwAEAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -335,11 +337,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ABCRetails\\Views\\Order\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212p1\\ABCRetails\\Views\\Order\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Order\\Create.cshtml",
-              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ABCRetails\\Views\\Order\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212p1\\ABCRetails\\Views\\Order\\Create.cshtml",
               "RelativeToolTip": "Views\\Order\\Create.cshtml",
               "ViewState": "AgIAALQAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -347,11 +349,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ABCRetails\\Views\\Order\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212p1\\ABCRetails\\Views\\Order\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Order\\Index.cshtml",
-              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ABCRetails\\Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212p1\\ABCRetails\\Views\\Order\\Index.cshtml",
               "RelativeToolTip": "Views\\Order\\Index.cshtml",
               "ViewState": "AgIAAFcAAAAAAAAAAAAAAJgAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -359,11 +361,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ABCRetails\\Views\\Product\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212p1\\ABCRetails\\Views\\Product\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Product\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ABCRetails\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212p1\\ABCRetails\\Views\\Product\\Edit.cshtml",
               "RelativeToolTip": "Views\\Product\\Edit.cshtml",
               "ViewState": "AgIAADAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -371,11 +373,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ABCRetails\\Views\\Product\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212p1\\ABCRetails\\Views\\Product\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Product\\Create.cshtml",
-              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ABCRetails\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212p1\\ABCRetails\\Views\\Product\\Create.cshtml",
               "RelativeToolTip": "Views\\Product\\Create.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -385,9 +387,9 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ABCRetails\\Views\\Product\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212p1\\ABCRetails\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Product\\Index.cshtml",
-              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ABCRetails\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212p1\\ABCRetails\\Views\\Product\\Index.cshtml",
               "RelativeToolTip": "Views\\Product\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -397,9 +399,9 @@
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ABCRetails\\Views\\Customer\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212p1\\ABCRetails\\Views\\Customer\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Customer\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ABCRetails\\Views\\Customer\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212p1\\ABCRetails\\Views\\Customer\\Edit.cshtml",
               "RelativeToolTip": "Views\\Customer\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -409,9 +411,9 @@
               "$type": "Document",
               "DocumentIndex": 24,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ABCRetails\\Views\\Customer\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212p1\\ABCRetails\\Views\\Customer\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Customer\\Create.cshtml",
-              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ABCRetails\\Views\\Customer\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212p1\\ABCRetails\\Views\\Customer\\Create.cshtml",
               "RelativeToolTip": "Views\\Customer\\Create.cshtml",
               "ViewState": "AgIAAC0AAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -421,9 +423,9 @@
               "$type": "Document",
               "DocumentIndex": 25,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ABCRetails\\Views\\Customer\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212p1\\ABCRetails\\Views\\Customer\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Customer\\Index.cshtml",
-              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ABCRetails\\Views\\Customer\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212p1\\ABCRetails\\Views\\Customer\\Index.cshtml",
               "RelativeToolTip": "Views\\Customer\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
